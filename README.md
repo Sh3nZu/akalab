@@ -1,2 +1,0 @@
-# akalab
-Lab de test 
